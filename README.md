@@ -1,3 +1,3 @@
-# robotics
+# Robotics
 here i will build a robot
 my name is matrix
